@@ -4,6 +4,11 @@
 .project
 .settings/
 
+logs
+node_modules/
+
+.vscode/
+
 target/
 build/
 out/

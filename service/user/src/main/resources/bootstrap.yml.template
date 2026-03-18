@@ -1,0 +1,13 @@
+server:
+  port: 51801
+spring:
+  application:
+    name: blogger-user
+  cloud:
+    nacos:
+      discovery:
+        server-addr: xxx
+      config:
+        server-addr: xxx
+        file-extension: yml
+
